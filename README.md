@@ -19,8 +19,8 @@ A notação foi criada originalmente para o voicebank [VIICTOR VCCV PT-BR](https
 | Voicebank | Tipo | Ano |
 |-----------|------|-----|
 | **VIICTOR VCCV 2018/2020** | VCCV PT-BR | 2018 |
-| **Fuka NEO** | PT-BR | 2021 |
-| **Chelly -Borborema-** | PT-BR | 2022 |
+| **Fuka NEO** | VCCV PT-BR | 2021 |
+| **Chelly -Borborema-** | CV-VV PT-BR | 2022 |
 
 ### Tabela de Fonemas
 
